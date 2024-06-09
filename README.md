@@ -1,5 +1,5 @@
 ## Curso Digital ADA - Santander Coders
-    * Repositório criado para aprendizado e treinamento de versionamento de codigos Git
+* Repositório criado para aprendizado e treinamento de versionamento de codigos Git
 
 # Curso Digital : Git
 
