@@ -6,6 +6,6 @@
 ## Salvando alterações no Git
 * Comando Git push
 * Segundo comando Git push
-
+* terceiro comando via browser git fatch
 
 
