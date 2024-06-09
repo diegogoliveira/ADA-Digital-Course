@@ -6,5 +6,7 @@
 
 ## Salvando alterações no Git
 * Comando Git push
-* Segundo comando Git push sem suporte
+* Segundo comando Git push
+
+
 
