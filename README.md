@@ -6,6 +6,8 @@
 ## Salvando alterações no Git
 * Comando Git push
 * Segundo comando Git push
-* terceiro comando via browser git fatch
+* Terceiro comando via browser git fetch
+* Quarto comando Git diff
+* Quinto comando Git pull
 
 
